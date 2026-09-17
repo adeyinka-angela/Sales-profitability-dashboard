@@ -37,3 +37,25 @@ three-year period.
 ## Files
 - `Sales_Profitability_Dashboard.xlsx` — full workbook with raw data, cleaning 
 steps, pivot tables, and dashboard
+
+## Recommendations & Potential Impact
+
+- **Fix Central region's pricing/discount strategy.** Central converts sales to 
+profit far less efficiently than West or East. Bringing its profit margin up to 
+the company average could add tens of thousands of dollars in profit without 
+any increase in sales.
+
+- **Cut or reprice the worst-performing loss-making SKUs.** A small group of 
+products (mostly 3D printers, conference tables, and bookcases) are actively 
+losing money — a combined $77,067. Addressing just this issue alone would 
+recover the equivalent of over 25% of total company profit, with no change to 
+sales volume required.
+
+- **Cap promotional discounting.** The January 2015 collapse shows that 
+discounts above ~40% routinely turn profitable orders into losses. A discount 
+ceiling or approval threshold for discounts over 30% could prevent similar 
+margin collapses in the future.
+
+**Combined potential impact:** addressing the SKU losses and Central's margin 
+gap alone could meaningfully improve overall company profit — from a 12.5% 
+margin baseline — without requiring any additional sales growth.
